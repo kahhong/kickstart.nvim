@@ -4,4 +4,7 @@ test.sh
 nvim
 
 spell/
+<<<<<<< HEAD
 lazy-lock.json
+=======
+>>>>>>> a51ef3f (update .gitignore)
